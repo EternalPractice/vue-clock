@@ -1,24 +1,5 @@
-# vuex_crash_course
+# Vue js clock
 
-## Project setup
-```
-npm install
-```
+This is a simple project that I'm considering the "hello world" of my Vue js learning.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+This clock will update every second & remain in the center of the screen (independent of screen size)
